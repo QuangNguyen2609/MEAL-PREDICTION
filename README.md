@@ -7,3 +7,5 @@ Goal  : Provide insights for client that will help them to plan the stock of raw
 Objective : Forecast precisely the number or orders in the next coming week
 
 Criteria for a successful outcome :  Precision of algorithm and the amount of useful insights
+
+This project uses both LightGBM and XGboosting as a regressor for prediction
